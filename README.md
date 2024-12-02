@@ -8,6 +8,7 @@ This is version 1, it is not secure. If you deploy it without changes your bot a
 
 1. Incorporate dotenv secruity
 2. Add in link scanning (Some of the code is already there)
+3. More testing
 
 ## Dependencies
 
