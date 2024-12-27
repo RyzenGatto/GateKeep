@@ -12,16 +12,12 @@ This is version 1, it is not secure. If you deploy it without changes your bot a
 
 ## Dependencies
 
-GateKeep is dependent on the following Python packages
+GateKeep is dependent on the packages in requirements.txt
 
-* asyncio
-* time
-* discord
-* os
-* cloudmersive_virus_api_client
-* dotenv
+**To run this program you must CD to the location you downloaded this repository to and run**
+> pip install -r requirements.txt
 
-pip3 install all of the above to run this script
+You may need to use pip3 instead of pip, depending on OS and how you installed Python.
 
 For more info on these dependencies, I recommend reading their documentation, it was super helpful when I was building this bot.
 
