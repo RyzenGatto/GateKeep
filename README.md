@@ -3,7 +3,7 @@ Keep your discord server safe with this free and open-source file-scanning bot u
 
 ## Info
 
-This is version 1.1, it is not secure. If you deploy it without changes your bot and Cloudmersive API tokens will be public. Cloudmersive requires an account and is free up to 800 calls.
+This is version 1.1, it is not secure. If you deploy it without changes your bot and Cloudmersive API tokens will be public. Cloudmersive requires an account and is free up to 800 calls a month.
 
 Keep in mind that this bot will download ALL files posted in your discord server. This code should run on a remote server gapped from your personal device, but it's your PC.
 
