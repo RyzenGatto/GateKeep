@@ -1,5 +1,4 @@
 import asyncio
-import pprint
 import time
 import discord
 import os
