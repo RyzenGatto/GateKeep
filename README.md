@@ -16,7 +16,7 @@ Keep in mind that this bot will download ALL files posted in your discord server
 
 GateKeep is dependent on the packages in requirements.txt
 
-**To run this program you must CD to the location you downloaded this repository to and run**
+**To run this program you must CD to the repository directory and run**
 > pip install -r requirements.txt
 
 You may need to use pip3 instead of pip, depending on OS and how you installed Python.
